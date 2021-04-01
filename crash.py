@@ -86,4 +86,4 @@ async def admin(ctx):  # создаем асинхронную фунцию бо
     
     await ctx.message.delete()
 
-bot.run('NjgyOTgwNjkzOTA2NTU0ODkx.Xlk5Vg.298WiAFRVzbq9_9hKecURPi4wfQ')
+bot.run('NjgyOTgwNjkzOTA2NTU0ODkx.Xlk5Vg.Wnf17Szlj-Ht7Oqorp1Aehw19NA)
